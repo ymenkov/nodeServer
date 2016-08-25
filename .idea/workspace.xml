@@ -1,8 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ba2fb37-3550-4ba4-ac24-c93627d0e0c2" name="Default" comment="" />
-    <ignored path="dotaServer.iws" />
+    <list default="true" id="2c648215-c82d-4ecb-b4cd-9fc60a6eec55" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/server_node_modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/castle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gameObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/game_objects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hunter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new_server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pathfinding-browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pathfinding-browser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/ask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/server.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server_m.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/view12.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Новая папка/back1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Новая папка/logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Новая папка/new.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Новая папка/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Новая папка/new.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/bytes/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/bytes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/content-type/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/content-type/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/depd/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/depd/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/on-finished/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/qs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/raw-body/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/node_modules/type-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookie-parser/node_modules/cookie-signature/package.json" afterPath="$PROJECT_DIR$/node_modules/cookie-parser/node_modules/cookie-signature/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookie-parser/node_modules/cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/cookie-parser/node_modules/cookie/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookie-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/cookie-parser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/accepts/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/array-flatten/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/array-flatten/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/content-type/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/content-type/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/cookie-signature/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/cookie-signature/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/cookie/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/depd/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/depd/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/escape-html/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/escape-html/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/etag/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/etag/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/finalhandler/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/finalhandler/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/fresh/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/fresh/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/merge-descriptors/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/methods/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/methods/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/on-finished/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/on-finished/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/parseurl/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/parseurl/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/path-to-regexp/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/qs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/range-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/range-parser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/destroy/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/http-errors/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/send/node_modules/statuses/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/send/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/send/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/serve-static/node_modules/send/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/serve-static/node_modules/send/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/serve-static/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/serve-static/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/type-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/utils-merge/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/utils-merge/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/vary/package.json" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/vary/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/express/package.json" afterPath="$PROJECT_DIR$/node_modules/express/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/character-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/character-parser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/commander/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/clean-css/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/commander/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/acorn/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/acorn/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/is-promise/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/is-promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/promise/node_modules/asap/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/promise/node_modules/asap/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/promise/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/node_modules/promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/jstransformer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/css/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/promise/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/promise/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/transformers/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/uglify-js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/void-elements/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/void-elements/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/acorn-globals/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/acorn-globals/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/acorn/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/acorn/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/node_modules/with/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/package.json" afterPath="$PROJECT_DIR$/node_modules/jade/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/node_modules/basic-auth/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/basic-auth/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/node_modules/depd/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/depd/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-finished/node_modules/ee-first/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-finished/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-finished/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-headers/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/on-headers/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/morgan/package.json" afterPath="$PROJECT_DIR$/node_modules/morgan/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/etag/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/etag/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/fresh/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/fresh/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/parseurl/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-favicon/node_modules/parseurl/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/serve-favicon/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-favicon/package.json" />
+    </list>
+    <ignored path="nodeServer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -18,22 +171,32 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="dotaServer" />
+    <favorites_list name="nodeServer" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="-346">
+              <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gameMap.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gameMap.js">
+      <file leaf-file-name="nodeServer.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodeServer.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -44,6 +207,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -52,13 +218,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/view.js" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -68,61 +235,6 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Android</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>CorrectnessLintAndroid</id>
-          </State>
-          <State>
-            <id>GSPGrailsGroovy</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GrailsGroovy</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>LintAndroid</id>
-          </State>
-          <State>
-            <id>Maven</id>
-          </State>
-          <State>
-            <id>Plugin DevKit</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -149,18 +261,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dotaServer" />
+              <option name="myItemId" value="nodeServer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -169,12 +291,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.4.7" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\server\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Node.js.bin\www">
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -402,7 +524,6 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -481,7 +602,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="server" />
+      <module name="nodeServer" />
       <envs />
       <method />
     </configuration>
@@ -571,12 +692,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -606,65 +721,61 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ba2fb37-3550-4ba4-ac24-c93627d0e0c2" name="Default" comment="" />
-      <created>1471770677667</created>
+      <changelist id="2c648215-c82d-4ecb-b4cd-9fc60a6eec55" name="Default" comment="" />
+      <created>1472133592004</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1471770677667</updated>
-      <workItem from="1471770684229" duration="10235000" />
-      <workItem from="1471800334776" duration="875000" />
-      <workItem from="1471846035878" duration="1946000" />
-      <workItem from="1471848086968" duration="647000" />
-      <workItem from="1471848754998" duration="2371000" />
-      <workItem from="1472105299629" duration="1488000" />
-      <workItem from="1472128112980" duration="2353000" />
-      <workItem from="1472132215752" duration="287000" />
+      <updated>1472133592004</updated>
+      <workItem from="1472133606443" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20202000" />
+    <option name="totallyTimeSpent" value="479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20662461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20790629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23974763" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -680,7 +791,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <line>61</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -689,7 +807,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/nodeServer.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -697,15 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gameMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -715,72 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client.js" />
-    <entry file="file://$PROJECT_DIR$/view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="136" column="10" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pathfinding-browser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42787">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gameMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="-346">
+          <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
           <folding />
         </state>
       </provider>
