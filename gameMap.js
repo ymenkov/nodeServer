@@ -1,3 +1,4 @@
+var PF = require('pathfinding');
 
 function GameMap(width, height){
 	var me = this;
@@ -73,3 +74,5 @@ function GameMap(width, height){
 	}	
 		
 }
+
+module.exports.GameMap = GameMap;
